@@ -1,7 +1,8 @@
 <?php
 
 echo "Ola Mundo!!";
-echo "Ola Cliff";
-echo "Deu certo0";
+echo "Ola Cliff"
+
+echo "Ola vc visitante";
 
 ?>
